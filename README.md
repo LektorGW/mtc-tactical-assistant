@@ -111,4 +111,4 @@ Maciej Kaczmarczyk, [mkaczmarczyk.com](https://mkaczmarczyk.com)
 
 ## License
 
-All rights reserved. The source is shared as a portfolio project. Third-party data under `data/weapons/community` and `data/maps/community` keeps its original MIT licence.
+[MIT](LICENSE) © 2026 Maciej Kaczmarczyk. Third-party data under `data/weapons/community` and `data/maps/community` keeps its original MIT licence and attribution (see Credits).
