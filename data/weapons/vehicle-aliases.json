@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "description": "Oznaczenia broni zaobserwowane w panelu broni gry → nazwy pojazdów katalogu. Tylko wskazówka do zawężenia kandydatów; nie potwierdza parametrów. Każdy wpis ma własne źródło i status experimental.",
+  "aliases": [
+    {
+      "observed": "155 mm M185",
+      "vehicles": [
+        "M109"
+      ],
+      "status": "experimental",
+      "source": "zaobserwowane w panelu gry 2026-10-16 (pojazd M109, amunicja M107 Medium Charge)"
+    },
+    {
+      "observed": "UB-32",
+      "vehicles": [
+        "UB-32"
+      ],
+      "status": "experimental",
+      "source": "zaobserwowane w panelu gry 2026-10-15 (ciężarówka/śmigłowiec); nazwa zgodna z katalogiem"
+    },
+    {
+      "observed": "73 mm 2A28",
+      "vehicles": [
+        "SPG-9"
+      ],
+      "status": "experimental",
+      "source": "zaobserwowane w panelu gry 2026-10-15 (SPG-9, PG-9); SPG-9 nie występuje w katalogu — brak profilu"
+    },
+    {
+      "observed": "Rocketetet",
+      "vehicles": [],
+      "status": "experimental",
+      "source": "zaobserwowane w panelu gry 2026-10-15; pojazd nieustalony, brak w katalogu"
+    }
+  ]
+}

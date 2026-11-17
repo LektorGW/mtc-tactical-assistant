@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "repository": "https://github.com/grand-hawk/artillery-calculator",
+  "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+  "fetchedAt": "2026-10-13T19:10:09+00:00",
+  "license": "MIT",
+  "profileCount": 153,
+  "weaponCount": 51,
+  "mapCount": 25,
+  "files": [
+    {
+      "path": "data/weapons/community/LICENSE.md",
+      "sourceUrl": "https://raw.githubusercontent.com/grand-hawk/artillery-calculator/39a7af7689524e57ca2326f3b998cf123df95426/LICENSE.md",
+      "sha256": "23c32fc597a95f4fb87a03405e9c5f6c6bc8c3441605f3896dc213fc12560afe"
+    },
+    {
+      "path": "data/weapons/community/source/README.md",
+      "sourceUrl": "https://raw.githubusercontent.com/grand-hawk/artillery-calculator/39a7af7689524e57ca2326f3b998cf123df95426/README.md",
+      "sha256": "c7094663fde9cb337b578e59b2f5b683b6e00516cc49124e0b9afd429513ffc0"
+    },
+    {
+      "path": "data/weapons/community/source/importedGuns.json",
+      "sourceUrl": "https://raw.githubusercontent.com/grand-hawk/artillery-calculator/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/importedGuns.json",
+      "sha256": "abc102b5f113d9cdd748e1ed4b3ade91427275a0de24ddc1d12e945d6340767d"
+    },
+    {
+      "path": "data/weapons/community/source/guns.ts",
+      "sourceUrl": "https://raw.githubusercontent.com/grand-hawk/artillery-calculator/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/guns.ts",
+      "sha256": "13306155a320c87636d64ddc36de52cec3a2e7b9c92cd8d21a54b0d999ee7bc1"
+    },
+    {
+      "path": "data/maps/community/source/maps.ts",
+      "sourceUrl": "https://raw.githubusercontent.com/grand-hawk/artillery-calculator/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+      "sha256": "28037c8c7472992c7c2a4b4f9442b214efb2a6f4093bf6edbd476d249304b40d"
+    },
+    {
+      "path": "data/weapons/community/source/math.ts",
+      "sourceUrl": "https://raw.githubusercontent.com/grand-hawk/artillery-calculator/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts",
+      "sha256": "2400b1f1cc77d9a7c668fed3782864e6d83e5f14317d471841fa31c1805c89fd"
+    }
+  ]
+}

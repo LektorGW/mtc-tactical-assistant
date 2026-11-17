@@ -1,0 +1,640 @@
+[
+  {
+    "schemaVersion": 1,
+    "id": "arctic_airbase",
+    "name": "Arctic Airbase",
+    "key": "Airbase",
+    "sizeStuds": 4041.0,
+    "sizeGameMeters": 1454.76,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": true,
+    "heightRangeStuds": {
+      "minimum": 0,
+      "maximum": 566.8941650390625
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "chernobyl_v2",
+    "name": "Chernobyl",
+    "key": "Chernobyl",
+    "sizeStuds": 4125.0,
+    "sizeGameMeters": 1485.0,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": false,
+    "heightRangeStuds": {
+      "minimum": 0,
+      "maximum": 408.0989990234375
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "cloudy_valley",
+    "name": "Cloudy Valley",
+    "key": "Cloudy Valley",
+    "sizeStuds": 2900.0,
+    "sizeGameMeters": 1044.0,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": false,
+    "heightRangeStuds": {
+      "minimum": 0,
+      "maximum": 318.92401123046875
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "dustbowl",
+    "name": "Dustbowl",
+    "key": "Dustbowl",
+    "sizeStuds": 3442,
+    "sizeGameMeters": 1239.12,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": true,
+    "heightRangeStuds": {
+      "minimum": 0,
+      "maximum": 362.07421875
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "dustbowl_ii",
+    "name": "Dustbowl II (old)",
+    "key": "Dustbowl2",
+    "sizeStuds": 6263,
+    "sizeGameMeters": 2254.68,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": false,
+    "heightRangeStuds": {
+      "minimum": -55.95123291015625,
+      "maximum": 506
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "dustbowl_ii_rework",
+    "name": "Dustbowl II",
+    "key": "Dustbowl2re",
+    "sizeStuds": 6263,
+    "sizeGameMeters": 2254.68,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": true,
+    "heightRangeStuds": {
+      "minimum": 25.84375,
+      "maximum": 232.2118682861328
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "fulvia_gap",
+    "name": "Fulvia Gap",
+    "key": "Fulvia Gap",
+    "sizeStuds": 7992.0,
+    "sizeGameMeters": 2877.12,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": true,
+    "heightRangeStuds": {
+      "minimum": 0,
+      "maximum": 168.87933349609375
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "gensokyo",
+    "name": "Gensokyo",
+    "key": "JapanMap",
+    "sizeStuds": 3049.9999999999995,
+    "sizeGameMeters": 1097.9999999999998,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": false,
+    "heightRangeStuds": null,
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "japan",
+    "name": "Japan",
+    "key": "OldJapanMap",
+    "sizeStuds": 3049.9999999999995,
+    "sizeGameMeters": 1097.9999999999998,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": false,
+    "heightRangeStuds": null,
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "muddy_fields",
+    "name": "Muddy Fields",
+    "key": "Muddy Fields",
+    "sizeStuds": 5999,
+    "sizeGameMeters": 2159.64,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": true,
+    "heightRangeStuds": {
+      "minimum": 5.9947967529296875,
+      "maximum": 104.14280700683594
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "no_mans_land",
+    "name": "No Man's Land",
+    "key": "No Man's Land",
+    "sizeStuds": 3179,
+    "sizeGameMeters": 1144.44,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": false,
+    "heightRangeStuds": {
+      "minimum": 27.66015625,
+      "maximum": 149.8065490722656
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "normandy",
+    "name": "Normandy Bocage",
+    "key": "Normandy Bocage",
+    "sizeStuds": 5976.0,
+    "sizeGameMeters": 2151.36,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": true,
+    "heightRangeStuds": {
+      "minimum": 0,
+      "maximum": 116.07926940917969
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "powerplant",
+    "name": "Powerplant",
+    "key": "PowerPlant",
+    "sizeStuds": 3995,
+    "sizeGameMeters": 1438.2,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": false,
+    "heightRangeStuds": {
+      "minimum": 110.25238037109375,
+      "maximum": 579.076416015625
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "radar_station",
+    "name": "Radar Station",
+    "key": "Radar",
+    "sizeStuds": 6372.0,
+    "sizeGameMeters": 2293.92,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": false,
+    "heightRangeStuds": {
+      "minimum": 0,
+      "maximum": 311.19268798828125
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "reactor",
+    "name": "Reactor (old)",
+    "key": "OldReactor",
+    "sizeStuds": 5175.0,
+    "sizeGameMeters": 1863.0,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": false,
+    "heightRangeStuds": null,
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "rohkshort",
+    "name": "Rohkshort",
+    "key": "Rohkshort",
+    "sizeStuds": 9217,
+    "sizeGameMeters": 3318.12,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": true,
+    "heightRangeStuds": {
+      "minimum": 0,
+      "maximum": 387.8159484863281
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "rohkstov",
+    "name": "Rohkstov",
+    "key": "Rohkstov",
+    "sizeStuds": 14996,
+    "sizeGameMeters": 5398.5599999999995,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": true,
+    "heightRangeStuds": {
+      "minimum": 0.406219482421875,
+      "maximum": 488.1702880859375
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "roinburg",
+    "name": "Roinburg",
+    "key": "Roinburg",
+    "sizeStuds": 3543,
+    "sizeGameMeters": 1275.48,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": true,
+    "heightRangeStuds": {
+      "minimum": 6.165008544921875,
+      "maximum": 227.7537384033203
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "snow_tundra",
+    "name": "Snow Tundra",
+    "key": "Snowy Tundra",
+    "sizeStuds": 4000.0,
+    "sizeGameMeters": 1440.0,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": false,
+    "heightRangeStuds": null,
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "snowy_fields",
+    "name": "Snowy Fields",
+    "key": "Snowy Fields",
+    "sizeStuds": 5999,
+    "sizeGameMeters": 2159.64,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": true,
+    "heightRangeStuds": {
+      "minimum": 6.6523284912109375,
+      "maximum": 228.3592529296875
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "sokolovka",
+    "name": "Sokolovka",
+    "key": "Sokolovka",
+    "sizeStuds": 5004.0,
+    "sizeGameMeters": 1801.4399999999998,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": true,
+    "heightRangeStuds": {
+      "minimum": 0,
+      "maximum": 96.25390625
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "the_map",
+    "name": "The Map",
+    "key": "The Map",
+    "sizeStuds": 22943,
+    "sizeGameMeters": 8259.48,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": false,
+    "heightRangeStuds": {
+      "minimum": -147.68359375,
+      "maximum": 159.07421875
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "villers_sommeil",
+    "name": "Villers-Sommeil",
+    "key": "Villers-Sommeil",
+    "sizeStuds": 2997,
+    "sizeGameMeters": 1078.92,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": true,
+    "heightRangeStuds": {
+      "minimum": 19.85155487060547,
+      "maximum": 123.07566833496094
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "waterloo",
+    "name": "Waterloo",
+    "key": "Waterloo",
+    "sizeStuds": 8734,
+    "sizeGameMeters": 3144.24,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": false,
+    "heightRangeStuds": {
+      "minimum": 0,
+      "maximum": 250.58702087402344
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  },
+  {
+    "schemaVersion": 1,
+    "id": "zone_11",
+    "name": "Zone 11",
+    "key": "Fields",
+    "sizeStuds": 8107,
+    "sizeGameMeters": 2918.52,
+    "unit": "game_meters",
+    "status": "experimental",
+    "inRotation": true,
+    "heightRangeStuds": {
+      "minimum": 0,
+      "maximum": 347.7691345214844
+    },
+    "sourceMetadata": {
+      "repository": "https://github.com/grand-hawk/artillery-calculator",
+      "commit": "39a7af7689524e57ca2326f3b998cf123df95426",
+      "fetchedAt": "2026-10-13T19:10:09+00:00",
+      "license": "MIT",
+      "experienceId": "9520328730",
+      "urls": [
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/config/maps.ts",
+        "https://github.com/grand-hawk/artillery-calculator/blob/39a7af7689524e57ca2326f3b998cf123df95426/packages/mtc-artillery/src/utils/math.ts"
+      ]
+    }
+  }
+]

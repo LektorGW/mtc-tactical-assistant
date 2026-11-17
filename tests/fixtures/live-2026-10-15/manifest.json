@@ -1,0 +1,263 @@
+{
+  "capturedAt": "2026-10-15",
+  "source": "Zrzuty ekranu gry MTC wykonane za zgodą użytkownika (GDI CopyFromScreen, 1920x1080, DPI 125%)",
+  "game": "Multicrew Tank Combat, place 95721658376580, tryb Frontlines, mapa Zone 11",
+  "fixtures": [
+    {
+      "file": "weapon-panel-rocketetet-a.png",
+      "sourceFrame": 2,
+      "cropInClient1920x1080": [
+        1700,
+        340,
+        1920,
+        820
+      ],
+      "expected": {
+        "weapon": "Rocketetet",
+        "ammo": "HE Rockets",
+        "range": "0000",
+        "elevationDeg": 23.53,
+        "azimuthDeg": 268.53,
+        "rangeMeters": null,
+        "note": "RANGE \"0000\" = brak pomiaru (null). Kąty zweryfikowane w pełnej rozdzielczości (2 miejsca po przecinku)."
+      }
+    },
+    {
+      "file": "weapon-panel-rocketetet-b.png",
+      "sourceFrame": 4,
+      "cropInClient1920x1080": [
+        1700,
+        340,
+        1920,
+        820
+      ],
+      "expected": {
+        "weapon": "Rocketetet",
+        "ammo": "HE Rockets",
+        "range": "0000",
+        "elevationDeg": 23.29,
+        "azimuthDeg": 280.51,
+        "rangeMeters": null,
+        "note": "RANGE \"0000\" = brak pomiaru (null). Kąty zweryfikowane w pełnej rozdzielczości (2 miejsca po przecinku)."
+      }
+    },
+    {
+      "file": "weapon-panel-rocketetet-unloaded.png",
+      "sourceFrame": 5,
+      "cropInClient1920x1080": [
+        1700,
+        340,
+        1920,
+        820
+      ],
+      "expected": {
+        "weapon": "Rocketetet",
+        "ammo": "Unloaded",
+        "range": "0000",
+        "elevationDeg": 23.29,
+        "azimuthDeg": 280.51,
+        "rangeMeters": null,
+        "note": "RANGE \"0000\" = brak pomiaru (null). Kąty zweryfikowane w pełnej rozdzielczości (2 miejsca po przecinku)."
+      }
+    },
+    {
+      "file": "weapon-panel-rocketetet-c.png",
+      "sourceFrame": 106,
+      "cropInClient1920x1080": [
+        1700,
+        340,
+        1920,
+        820
+      ],
+      "expected": {
+        "weapon": "Rocketetet",
+        "ammo": "HE Rockets",
+        "range": "0000",
+        "rangeMeters": null,
+        "elevationDeg": 16.6,
+        "azimuthDeg": 274.72,
+        "note": "RANGE \"0000\" = brak pomiaru (null). Kąty zweryfikowane w pełnej rozdzielczości (2 miejsca po przecinku)."
+      }
+    },
+    {
+      "file": "weapon-panel-spg9.png",
+      "sourceFrame": 24,
+      "cropInClient1920x1080": [
+        1700,
+        340,
+        1920,
+        820
+      ],
+      "expected": {
+        "weapon": "73 mm 2A28",
+        "ammo": "PG-9",
+        "range": "0000",
+        "elevationDeg": null,
+        "azimuthDeg": null,
+        "rangeMeters": null,
+        "note": "RANGE \"0000\" = brak pomiaru (null). Kąty zweryfikowane w pełnej rozdzielczości (2 miejsca po przecinku)."
+      }
+    },
+    {
+      "file": "weapon-panel-ub32-a.png",
+      "sourceFrame": 30,
+      "cropInClient1920x1080": [
+        1700,
+        340,
+        1920,
+        820
+      ],
+      "expected": {
+        "weapon": "UB-32",
+        "ammo": "S-5K1",
+        "range": "0000",
+        "elevationDeg": -0.89,
+        "azimuthDeg": 232.16,
+        "rangeMeters": null,
+        "note": "RANGE \"0000\" = brak pomiaru (null). Kąty zweryfikowane w pełnej rozdzielczości (2 miejsca po przecinku)."
+      }
+    },
+    {
+      "file": "weapon-panel-ub32-b.png",
+      "sourceFrame": 32,
+      "cropInClient1920x1080": [
+        1700,
+        340,
+        1920,
+        820
+      ],
+      "expected": {
+        "weapon": "UB-32",
+        "ammo": "S-5K1",
+        "range": "0000",
+        "elevationDeg": 13.71,
+        "azimuthDeg": 279.01,
+        "rangeMeters": null,
+        "note": "RANGE \"0000\" = brak pomiaru (null). Kąty zweryfikowane w pełnej rozdzielczości (2 miejsca po przecinku)."
+      }
+    },
+    {
+      "file": "weapon-panel-ub32-c.png",
+      "sourceFrame": 41,
+      "cropInClient1920x1080": [
+        1700,
+        340,
+        1920,
+        820
+      ],
+      "expected": {
+        "weapon": "UB-32",
+        "ammo": "S-5K1",
+        "range": "0000",
+        "elevationDeg": 32.61,
+        "azimuthDeg": 242.36,
+        "rangeMeters": null,
+        "note": "RANGE \"0000\" = brak pomiaru (null). Kąty zweryfikowane w pełnej rozdzielczości (2 miejsca po przecinku)."
+      }
+    },
+    {
+      "file": "full-map-zone11-frontlines.png",
+      "sourceFrame": 38,
+      "cropInClient1920x1080": [
+        640,
+        160,
+        1300,
+        880
+      ],
+      "expected": {
+        "map": "zone_11",
+        "gridSizeText": "Grid size: 324 meters",
+        "columns": "A B C D E F G H J",
+        "rows": "1-9 top-down",
+        "note": "Linie siatki (środki) w kadrze: x 32→609, y 92→668; pole ~64,1 px (zmierzone). Początek kadru (640,160) w kliencie 1920x1080.",
+        "gridLinesInCrop": {
+          "left": 32,
+          "top": 92,
+          "right": 609,
+          "bottom": 668
+        }
+      }
+    },
+    {
+      "file": "minimap-grid.png",
+      "sourceFrame": 2,
+      "cropInClient1920x1080": [
+        0,
+        650,
+        360,
+        1010
+      ],
+      "expected": {
+        "columns": "A B C D E F G H J",
+        "rows": "1-9 top-down"
+      }
+    },
+    {
+      "file": "compass-269.png",
+      "sourceFrame": 2,
+      "cropInClient1920x1080": [
+        520,
+        70,
+        1400,
+        140
+      ],
+      "expected": {
+        "compassDeg": 269,
+        "mode": "FRONTLINES"
+      }
+    },
+    {
+      "file": "timer-5336.png",
+      "sourceFrame": 1,
+      "cropInClient1920x1080": [
+        880,
+        10,
+        1040,
+        80
+      ],
+      "expected": {
+        "timer": "53:36"
+      }
+    },
+    {
+      "file": "loadout-specs-primary.png",
+      "sourceFrame": 15,
+      "cropInClient1920x1080": [
+        1200,
+        270,
+        1530,
+        570
+      ],
+      "expected": {
+        "slot": "Primary",
+        "weaponName": null,
+        "damage": 66,
+        "type": "AP",
+        "muzzleVelocityMps": 825,
+        "penetrationMm": 18,
+        "projectileMassKg": 0.0,
+        "note": "Panel Specifications nie podaje nazwy broni (żadna karta nie jest podświetlona)."
+      }
+    },
+    {
+      "file": "loadout-tertiary.png",
+      "sourceFrame": 17,
+      "cropInClient1920x1080": [
+        400,
+        160,
+        1540,
+        600
+      ],
+      "expected": {
+        "slot": "Tertiary",
+        "weaponName": null,
+        "damage": 29,
+        "type": "AP",
+        "muzzleVelocityMps": 350,
+        "penetrationMm": 1,
+        "projectileMassKg": 0.0,
+        "note": "Tytuł 'Choose Weapon - Tertiary', karty Tier 1 bez zaznaczenia; specyfikacja nie wskazuje, której karty dotyczy."
+      }
+    }
+  ]
+}

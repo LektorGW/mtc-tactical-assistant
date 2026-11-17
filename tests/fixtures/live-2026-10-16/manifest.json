@@ -1,0 +1,276 @@
+{
+  "capturedAt": "2026-10-16",
+  "source": "Zrzuty gry MTC za zgodą użytkownika (1920x1080, DPI 125%), mapa Rohkstov, tryb Conquest. Wycinki minimapy bez nicków; pełne klatki poza repozytorium.",
+  "labelling": "Pozycja białej strzałki gracza (środek ciężkości jasnych pikseli) oznaczona wzrokowo; kompas odczytany OCR i sprawdzony wzrokowo.",
+  "fixtures": [
+    {
+      "file": "minimap-own-143.png",
+      "sourceFrame": 143,
+      "cropInClient1920x1080": [
+        10,
+        690,
+        390,
+        1070
+      ],
+      "expected": {
+        "arrowInCrop": {
+          "x": 126.4,
+          "y": 171.1
+        },
+        "arrowVisibleToEye": true,
+        "compassDeg": 245,
+        "status": "unconfirmed"
+      }
+    },
+    {
+      "file": "minimap-own-146.png",
+      "sourceFrame": 146,
+      "cropInClient1920x1080": [
+        10,
+        690,
+        390,
+        1070
+      ],
+      "expected": {
+        "arrowInCrop": {
+          "x": 129.3,
+          "y": 172.0
+        },
+        "arrowVisibleToEye": true,
+        "compassDeg": 94,
+        "status": "unconfirmed"
+      }
+    },
+    {
+      "file": "minimap-own-149.png",
+      "sourceFrame": 149,
+      "cropInClient1920x1080": [
+        10,
+        690,
+        390,
+        1070
+      ],
+      "expected": {
+        "arrowInCrop": {
+          "x": 132.5,
+          "y": 176.7
+        },
+        "arrowVisibleToEye": true,
+        "compassDeg": 144,
+        "status": "unconfirmed"
+      }
+    },
+    {
+      "file": "minimap-own-152.png",
+      "sourceFrame": 152,
+      "cropInClient1920x1080": [
+        10,
+        690,
+        390,
+        1070
+      ],
+      "expected": {
+        "arrowInCrop": {
+          "x": 132.0,
+          "y": 176.0
+        },
+        "arrowVisibleToEye": true,
+        "compassDeg": 143,
+        "status": "none",
+        "note": "Minimapa przyciemniona; strzałka widoczna wzrokowo, detektor jej nie znajduje (brak siatki)."
+      }
+    },
+    {
+      "file": "minimap-own-158.png",
+      "sourceFrame": 158,
+      "cropInClient1920x1080": [
+        10,
+        690,
+        390,
+        1070
+      ],
+      "expected": {
+        "arrowInCrop": {
+          "x": 139.3,
+          "y": 181.7
+        },
+        "arrowVisibleToEye": true,
+        "compassDeg": 129,
+        "status": "ready"
+      }
+    },
+    {
+      "file": "minimap-own-167.png",
+      "sourceFrame": 167,
+      "cropInClient1920x1080": [
+        10,
+        690,
+        390,
+        1070
+      ],
+      "expected": {
+        "arrowInCrop": {
+          "x": 149.1,
+          "y": 187.2
+        },
+        "arrowVisibleToEye": true,
+        "compassDeg": 99,
+        "status": "ready"
+      }
+    },
+    {
+      "file": "minimap-own-176.png",
+      "sourceFrame": 176,
+      "cropInClient1920x1080": [
+        10,
+        690,
+        390,
+        1070
+      ],
+      "expected": {
+        "arrowInCrop": {
+          "x": 158.8,
+          "y": 189.8
+        },
+        "arrowVisibleToEye": true,
+        "compassDeg": 99,
+        "status": "ready"
+      }
+    },
+    {
+      "file": "minimap-own-188.png",
+      "sourceFrame": 188,
+      "cropInClient1920x1080": [
+        10,
+        690,
+        390,
+        1070
+      ],
+      "expected": {
+        "arrowInCrop": {
+          "x": 176.0,
+          "y": 187.3
+        },
+        "arrowVisibleToEye": true,
+        "compassDeg": 56,
+        "status": "ready"
+      }
+    },
+    {
+      "file": "minimap-own-194.png",
+      "sourceFrame": 194,
+      "cropInClient1920x1080": [
+        10,
+        690,
+        390,
+        1070
+      ],
+      "expected": {
+        "arrowInCrop": {
+          "x": 182.9,
+          "y": 188.9
+        },
+        "arrowVisibleToEye": true,
+        "compassDeg": 190,
+        "status": "ready"
+      }
+    },
+    {
+      "file": "minimap-own-197.png",
+      "sourceFrame": 197,
+      "cropInClient1920x1080": [
+        10,
+        690,
+        390,
+        1070
+      ],
+      "expected": {
+        "arrowInCrop": {
+          "x": 183.5,
+          "y": 192.0
+        },
+        "arrowVisibleToEye": true,
+        "compassDeg": 317,
+        "status": "ready"
+      }
+    },
+    {
+      "file": "minimap-own-206.png",
+      "sourceFrame": 206,
+      "cropInClient1920x1080": [
+        10,
+        690,
+        390,
+        1070
+      ],
+      "expected": {
+        "arrowInCrop": {
+          "x": 181.2,
+          "y": 197.5
+        },
+        "arrowVisibleToEye": true,
+        "compassDeg": 168,
+        "status": "ready"
+      }
+    },
+    {
+      "file": "minimap-own-214.png",
+      "sourceFrame": 214,
+      "cropInClient1920x1080": [
+        10,
+        690,
+        390,
+        1070
+      ],
+      "expected": {
+        "arrowInCrop": {
+          "x": 182.7,
+          "y": 197.9
+        },
+        "arrowVisibleToEye": true,
+        "compassDeg": 235,
+        "status": "ready"
+      }
+    },
+    {
+      "file": "minimap-own-228.png",
+      "sourceFrame": 228,
+      "cropInClient1920x1080": [
+        10,
+        690,
+        390,
+        1070
+      ],
+      "expected": {
+        "arrowInCrop": {
+          "x": 184.0,
+          "y": 61.0
+        },
+        "arrowVisibleToEye": true,
+        "compassDeg": 180,
+        "status": "ready"
+      }
+    },
+    {
+      "file": "weapon-panel-m109.png",
+      "sourceFrame": 76,
+      "cropInClient1920x1080": [
+        1700,
+        340,
+        1920,
+        820
+      ],
+      "expected": {
+        "weapon": "155 mm M185",
+        "ammo": "M107 Medium Charge",
+        "range": "0000",
+        "rangeMeters": null,
+        "elevationDeg": 3.12,
+        "azimuthDeg": 180.44,
+        "profileId": "community-m109-5",
+        "equivalentProfileIds": ["community-m109a6-5"],
+        "note": "Panel stanowiska M109 (klatka 076, mapa Rohkstov). Kąty sprawdzone wzrokowo w pełnej rozdzielczości. Wycinek bez nicków. Oznaczenie panelu 155 mm M185 nie występuje w katalogu; profil wynika z vehicle-aliases.json i amunicji M107 Medium Charge."
+      }
+    }
+  ]
+}

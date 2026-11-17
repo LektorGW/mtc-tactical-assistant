@@ -1,0 +1,10 @@
+[package]
+name = "mtc-ballistics"
+version.workspace = true
+edition.workspace = true
+[dependencies]
+serde.workspace = true
+mtc-profiles = { path = "../profiles" }
+
+[dev-dependencies]
+serde_json.workspace = true

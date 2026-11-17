@@ -1,0 +1,39 @@
+# Build output
+/target/
+**/node_modules/
+**/dist/
+**/gen/
+/release/
+*.tsbuildinfo
+**/__pycache__/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Generated test results (smoke tests, window tests)
+/tests/output/
+/tests/windows-output/
+/.tmp*/
+
+# Local environment, secrets and signing material
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Full captured game frames contain player nicknames; only reviewed crops
+# in tests/fixtures are committed
+/captures/
+/recordings/
+
+# Editor / OS
+.vscode/
+.idea/
+.codex/
+.claude/
+Thumbs.db
+.DS_Store

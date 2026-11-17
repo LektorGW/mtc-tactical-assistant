@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "description": "Ręcznie wpisane, pojedyncze parametry spoza snapshotu grand-hawk. Każdy wpis ma własne źródło i status experimental; skrypt sync-community-data.py nakłada je na wygenerowane profile.",
+  "profiles": {
+    "community-bm_21_grad-1": {
+      "salvo": {
+        "unit": "game_meters",
+        "angularSigmaMrad": 1.75,
+        "speedSigma": null,
+        "rippleInterval": null,
+        "calibrated": false,
+        "status": "experimental",
+        "source": "multicrew.wiki, strona pocisku 122mm Grad 9M22/M21 HE-Frag: „Angular dispersion (1σ): 1.75 mrad” — https://multicrew.wiki/md/mtc/shells/122mm-grad-9m22m21-he-frag.md, odczyt 2026-10-15. Strona bez daty, wersji gry i licencji; pojedyncza wartość wpisana ręcznie, bez importu hurtowego. Interpretacja jako 1σ na każdą z dwóch osi poprzecznych do kierunku startu jest założeniem aplikacji. Rozrzut prędkości: brak danych."
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+[package]
+name = "mtc-maps"
+version.workspace = true
+edition.workspace = true
+[dependencies]
+serde.workspace = true
+image.workspace = true
+

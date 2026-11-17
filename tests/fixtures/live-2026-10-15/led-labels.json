@@ -1,0 +1,218 @@
+{
+ "description": "Wartości ELEVATION/AZIMUTH odczytane wzrokowo z pełnych klatek live-NNN (2026-10-15, 1920x1080). Klatki nie są w repozytorium (zawierają nicki graczy). Klatki fixtures są wyłączone z treningu wzorców.",
+ "fixtureFrames": {
+  "002": "weapon-panel-rocketetet-a.png",
+  "004": "weapon-panel-rocketetet-b.png",
+  "005": "weapon-panel-rocketetet-unloaded.png",
+  "030": "weapon-panel-ub32-a.png",
+  "032": "weapon-panel-ub32-b.png",
+  "041": "weapon-panel-ub32-c.png",
+  "106": "weapon-panel-rocketetet-c.png"
+ },
+ "frames": {
+  "001": {
+   "elevation": "20.91°",
+   "azimuth": "264.66°"
+  },
+  "002": {
+   "elevation": "23.53°",
+   "azimuth": "268.53°"
+  },
+  "003": {
+   "elevation": "23.53°",
+   "azimuth": "268.53°"
+  },
+  "004": {
+   "elevation": "23.29°",
+   "azimuth": "280.51°"
+  },
+  "005": {
+   "elevation": "23.29°",
+   "azimuth": "280.51°"
+  },
+  "006": {
+   "elevation": "23.29°",
+   "azimuth": "280.51°"
+  },
+  "030": {
+   "elevation": "-0.89°",
+   "azimuth": "232.16°"
+  },
+  "031": {
+   "elevation": "8.03°",
+   "azimuth": "279.99°"
+  },
+  "032": {
+   "elevation": "13.71°",
+   "azimuth": "279.01°"
+  },
+  "033": {
+   "elevation": "13.71°",
+   "azimuth": "279.01°"
+  },
+  "034": {
+   "elevation": "14.65°",
+   "azimuth": "279.43°"
+  },
+  "035": {
+   "elevation": "14.75°",
+   "azimuth": "279.44°"
+  },
+  "036": {
+   "elevation": "14.66°",
+   "azimuth": "296.23°"
+  },
+  "037": {
+   "elevation": "13.39°",
+   "azimuth": "285.40°"
+  },
+  "038": {
+   "elevation": "11.33°",
+   "azimuth": "285.68°"
+  },
+  "039": {
+   "elevation": "12.11°",
+   "azimuth": "265.24°"
+  },
+  "040": {
+   "elevation": "14.95°",
+   "azimuth": "281.06°"
+  },
+  "041": {
+   "elevation": "32.61°",
+   "azimuth": "242.36°"
+  },
+  "042": {
+   "elevation": "23.30°",
+   "azimuth": "295.22°"
+  },
+  "043": {
+   "elevation": "-47.68°",
+   "azimuth": "241.24°"
+  },
+  "044": {
+   "elevation": "23.54°",
+   "azimuth": "147.93°"
+  },
+  "045": {
+   "elevation": "46.20°",
+   "azimuth": "212.45°"
+  },
+  "046": {
+   "elevation": "46.23°",
+   "azimuth": "211.86°"
+  },
+  "047": {
+   "elevation": "47.78°",
+   "azimuth": "282.46°"
+  },
+  "052": {
+   "elevation": "47.85°",
+   "azimuth": "284.03°"
+  },
+  "053": {
+   "elevation": "46.99°",
+   "azimuth": "284.31°"
+  },
+  "054": {
+   "elevation": "47.50°",
+   "azimuth": "294.97°"
+  },
+  "055": {
+   "elevation": "38.35°",
+   "azimuth": "291.73°"
+  },
+  "056": {
+   "elevation": "49.67°",
+   "azimuth": "243.52°"
+  },
+  "057": {
+   "elevation": "46.95°",
+   "azimuth": "225.85°"
+  },
+  "058": {
+   "elevation": "11.93°",
+   "azimuth": "301.12°"
+  },
+  "059": {
+   "elevation": "-47.95°",
+   "azimuth": "290.29°"
+  },
+  "060": {
+   "elevation": "-45.67°",
+   "azimuth": "288.83°"
+  },
+  "068": {
+   "elevation": "-0.00°",
+   "azimuth": "320.09°"
+  },
+  "069": {
+   "elevation": "3.22°",
+   "azimuth": "1.36°"
+  },
+  "070": {
+   "elevation": "5.00°",
+   "azimuth": "328.88°"
+  },
+  "071": {
+   "elevation": "5.00°",
+   "azimuth": "349.49°"
+  },
+  "072": {
+   "elevation": "-1.00°",
+   "azimuth": "19.62°"
+  },
+  "073": {
+   "elevation": "-0.59°",
+   "azimuth": "320.09°"
+  },
+  "074": {
+   "elevation": "1.11°",
+   "azimuth": "343.27°"
+  },
+  "075": {
+   "elevation": "-0.46°",
+   "azimuth": "320.09°"
+  },
+  "076": {
+   "elevation": "-0.46°",
+   "azimuth": "341.52°"
+  },
+  "085": {
+   "elevation": "-0.00°",
+   "azimuth": "302.40°"
+  },
+  "086": {
+   "elevation": "-0.00°",
+   "azimuth": "302.40°"
+  },
+  "087": {
+   "elevation": "-0.00°",
+   "azimuth": "302.40°"
+  },
+  "088": {
+   "elevation": "0.56°",
+   "azimuth": "292.73°"
+  },
+  "089": {
+   "elevation": "2.10°",
+   "azimuth": "289.47°"
+  },
+  "090": {
+   "elevation": "2.24°",
+   "azimuth": "331.90°"
+  },
+  "105": {
+   "elevation": "11.54°",
+   "azimuth": "270.56°"
+  },
+  "106": {
+   "elevation": "16.60°",
+   "azimuth": "274.72°"
+  },
+  "107": {
+   "elevation": "10.25°",
+   "azimuth": "281.13°"
+  }
+ }
+}

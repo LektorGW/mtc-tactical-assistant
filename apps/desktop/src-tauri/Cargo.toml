@@ -1,0 +1,24 @@
+[package]
+name = "mtc-tactical-assistant"
+version.workspace = true
+edition.workspace = true
+default-run = "mtc-tactical-assistant"
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+[dependencies]
+tauri = { version = "2", features = [] }
+tauri-plugin-global-shortcut = "2"
+tauri-plugin-dialog = "2"
+serde.workspace = true
+serde_json.workspace = true
+image.workspace = true
+base64 = "0.22"
+sha2 = "0.10"
+mtc-ballistics = { path = "../../../crates/ballistics" }
+mtc-maps = { path = "../../../crates/maps" }
+mtc-profiles = { path = "../../../crates/profiles" }
+mtc-capture = { path = "../../../crates/capture" }
+mtc-vision = { path = "../../../crates/vision" }
+mtc-assets = { path = "../../../crates/assets" }
+
+

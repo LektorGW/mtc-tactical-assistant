@@ -1,0 +1,13 @@
+[package]
+name = "mtc-vision"
+version.workspace = true
+edition.workspace = true
+[dependencies]
+serde.workspace = true
+serde_json.workspace = true
+image.workspace = true
+regex = "1"
+mtc-maps = { path = "../maps" }
+[target.'cfg(windows)'.dependencies]
+windows.workspace = true
+

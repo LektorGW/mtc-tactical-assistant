@@ -1,0 +1,69 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "MTC Tactical Assistant",
+  "version": "0.5.1",
+  "identifier": "pl.mtc.tacticalassistant",
+  "build": {
+    "beforeDevCommand": "npm run dev",
+    "devUrl": "http://127.0.0.1:1420",
+    "beforeBuildCommand": "npm run build",
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "windows": [
+      {
+        "label": "main",
+        "title": "MTC Tactical Assistant",
+        "width": 1220,
+        "height": 900,
+        "minWidth": 820,
+        "minHeight": 650,
+        "center": true,
+        "backgroundColor": "#0c121c",
+        "focus": false
+      },
+      {
+        "label": "overlay",
+        "title": "MTC Tactical Overlay",
+        "url": "index.html?overlay=1",
+        "width": 390,
+        "height": 340,
+        "x": 30,
+        "y": 30,
+        "transparent": true,
+        "decorations": false,
+        "alwaysOnTop": true,
+        "skipTaskbar": true,
+        "visible": false,
+        "resizable": false,
+        "backgroundColor": "#00000000",
+        "focus": false
+      }
+    ],
+    "security": {
+      "csp": "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; connect-src ipc: http://ipc.localhost; object-src 'none'; frame-src 'none'"
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": [
+      "nsis"
+    ],
+    "icon": [
+      "icons/icon.ico"
+    ],
+    "windows": {
+      "nsis": {
+        "displayLanguageSelector": false,
+        "languages": [
+          "Polish"
+        ],
+        "installMode": "currentUser"
+      }
+    },
+    "resources": {
+      "../../../data/weapons/community/LICENSE.md": "licenses/mtc-community-MIT.txt",
+      "../../../data/weapons/community/manifest.json": "licenses/community-manifest.json"
+    }
+  }
+}
